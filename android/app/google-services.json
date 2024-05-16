@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "326752046223",
+    "project_id": "work-with-otp",
+    "storage_bucket": "work-with-otp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:326752046223:android:66ba1a90c0b9cfdb9774fa",
+        "android_client_info": {
+          "package_name": "com.example.lmsystem_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6MQ_5H2hmXA05Jr-APXVzp55bY5ciI5o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
